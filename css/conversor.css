@@ -1,0 +1,14 @@
+.conversor {
+    margin-left: 30%;
+    padding-top: 50px;
+    align-items: center;
+    width: 900px;
+    height: 100%;
+    background-color: darkgray;
+    display: flex;
+    
+}
+
+.body {
+    background-color: darkgray;
+}
