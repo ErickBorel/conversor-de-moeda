@@ -9,5 +9,5 @@
 
 .button:hover {
     transform: scale(1.08);
-    background-color: #FFF;
+    background-color: rgb(179, 179, 179);
 }

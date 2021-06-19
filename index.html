@@ -17,17 +17,18 @@
 
     <h1 class="title">Conversor de moedas</h1>
     <div class="conversor">
-        <label class="title-vd" for="input">Valor Dolar:</label>
-        <input class="valor-dolar" type="text">
+        <label class="title-vd" for="input">Valor em Dolar:</label>
+        <input id="valor-dolar" class="valor-dolar" type="text">
 
-        <label class="title-vr" for="p">Valor Real:</label>
-        <p class="valor-real">""</p>
+        <label class="title-vr" for="p">Valor em Real:</label>
+        <p id="resultado-real" class="valor-real"></p>
         
     </div>
 
     <div>
-        <button class="button">Converter</button>
+        <button onclick="converterDolar()" id="button" class="button">Converter</button>
     </div>
 
+    <script src="js/index.js"></script>
 </body>
 </html>

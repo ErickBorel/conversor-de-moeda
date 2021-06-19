@@ -1,5 +1,6 @@
 .valor-real {
     box-sizing: border-box;
+    padding-top: 5px;
     margin: 0px;
     border: 2px solid #000;
     text-align: center;
