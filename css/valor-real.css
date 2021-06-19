@@ -1,9 +1,10 @@
 .valor-real {
     box-sizing: border-box;
-    padding-top: 5px;
+    padding-top: 2px;
     margin: 0px;
     border: 2px solid #000;
     text-align: center;
+    font-size: 20px;
     background-color: #fff;
     width: 211px;
     height: 30px;
