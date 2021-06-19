@@ -4,6 +4,6 @@ function converterDolar() {
         var valorReal = valorDolar * 5.09
         document.getElementById("resultado-real").innerHTML = valorReal.toFixed(2)
     } else {
-        document.getElementById("resultado-real").innerHTML = "Adicione um valor"
+        document.getElementById("resultado-real").innerHTML = "Adicione um valor!"
     }   
 }
