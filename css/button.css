@@ -5,6 +5,7 @@
     background-color: #054f77;
     height: 40px;
     width: 160px;
+    box-shadow: 4px 4px 4px #000;
 }
 
 .button:hover {
